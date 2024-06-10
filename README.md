@@ -1,0 +1,2 @@
+# joosemar
+tecnicas computacionais
